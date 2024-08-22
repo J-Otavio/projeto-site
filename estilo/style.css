@@ -15,6 +15,16 @@ header{
 }
 
 header>h1{
-    padding: 50px;
-    color: blueviolet;
+   padding-top: 50px;
+    /*text-transform: uppercase;  colocar tudo em maiusculo*/
+    font-variant: small-caps; /*colocar em maiusculo tbm, de outra forma*/
+    
+}
+
+header>p{
+    padding-bottom: 50px;
+}
+a{
+  color: white;
+  text-decoration: none;
 }
